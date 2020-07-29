@@ -1,18 +1,4 @@
-[
-    {
-        "relayN": 1,
-        "relayType": "RELA"
-    },
-    {
-        "relayN": 2,
-        "relayType": "RELA"
-    },
-    {
-        "relayN": 0,
-        "relayType": "DISCONNECT"
-    },
-    {
-        "relayN": 3,
-        "relayType": "RELA"
-    }
-]
+{
+  "id": 1,
+  "title": "hello"
+}
