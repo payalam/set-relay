@@ -1,11 +1,47 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+        {
+            "relayId": 321,
+            "usage": "Boiler",
+            "relayNr": 1,
+            "relayType": "RELAY",
+            "relayState": "OFF",
+            "reverted": false,
+            "relayStateTime": 1584443026476,
+            "deviceMeterId": 220,
+            "meterConnectionId": 441,
+            "meteringPointId": 601,
+            "controlMode": null,
+            "controlModeDate": null,
+            "transitions": null
+        },
+        {
+            "relayId": 322,
+            "usage": "Heating",
+            "relayNr": 2,
+            "relayType": "RELAY",
+            "relayState": "ON",
+            "reverted": false,
+            "relayStateTime": 1584454543267,
+            "deviceMeterId": 220,
+            "meterConnectionId": 441,
+            "meteringPointId": 601,
+            "controlMode": null,
+            "controlModeDate": null,
+            "transitions": null
+        },
+        {
+            "relayId": 241,
+            "usage": "Mains",
+            "relayNr": 0,
+            "relayType": "DISCONNECTOR",
+            "relayState": "ON",
+            "reverted": false,
+            "relayStateTime": 1584453802000,
+            "deviceMeterId": 220,
+            "meterConnectionId": 441,
+            "meteringPointId": 601,
+            "controlMode": 4,
+            "controlModeDate": 1584453802000,
+            "transitions": null
+        }
+    ]
