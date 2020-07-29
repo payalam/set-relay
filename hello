@@ -1,4 +1,18 @@
-{
-  "id": 1,
-  "title": "hello"
-}
+{"relays": [
+        {
+            "relayNr": 1,
+            "relayType": "RELAY"
+        },
+        {
+            "relayNr": 2,
+            "relayType": "RELAY"
+        },
+        {
+            "relayNr": 0,
+            "relayType": "DISCONNECTOR"
+        },
+        {
+            "relayNr": 3,
+            "relayType": "RELAY"
+        }
+    ]}
